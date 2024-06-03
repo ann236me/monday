@@ -16,7 +16,20 @@ li         {
     color:rebeccapurple;
 }
 
+h2          {
+    
+    color: magenta;
+}
+
 footer {
 
     color: grey;
+}
+
+h3 {
+    color: maroon;
+}
+
+ul {
+    color: green;
 }
